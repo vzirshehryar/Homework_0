@@ -1,0 +1,30 @@
+title{
+  text-shadow: 3px 2px yellow;
+}
+body {
+  text-align: center;
+  font-family: monospace;
+  background:url(./100.jpg)  no-repeat center center;
+  background-size:cover;
+}
+h1{
+  color:black
+}
+h2{
+  color:black
+}
+h3{
+  color:black
+}
+p{
+  font-size:20px;
+  color:rgb(50, 53, 95)
+}
+  img {
+  border: 3px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 400px;
+}
+
+  
